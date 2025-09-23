@@ -1,5 +1,1 @@
-nacos
-#支持私库
 nacos/nacos-server:v2.5.1
-#支持指定架构
---platform=linux/amd64
