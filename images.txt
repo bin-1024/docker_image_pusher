@@ -1,1 +1,2 @@
-postgres:15.14
+bladex/sentinel-dashboard:1.8.7
+seataio/seata-server:1.7.0
