@@ -1,2 +1,1 @@
-bladex/sentinel-dashboard:1.8.7
-seataio/seata-server:1.7.0
+redis:5.0.14
